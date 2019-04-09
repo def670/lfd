@@ -44,7 +44,7 @@ Instructions
 
 -  Install CUDA SciKit with pip. ::
 
-      sudo pip install pycuda scikits.cuda>=0.5.0a1 Mako
+      sudo pip install pycuda scikit.cuda>=0.5.0a1 Mako
 
 -  CULA (optional):
    
